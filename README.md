@@ -1,5 +1,6 @@
 # DBMS Lab Project (IV Semester) - Social Media Backend
 This project is created by a group of students from IIIT, Bhopal as a graded project for our fourth semster Database Managment Systems Lab evaluation. It is a simple backend project aimed to improve our mysql skills.
+
 ## Description
 * **Absract:-** <br/>
 We all use social media applications in our daily life, sometimes even too much. Due to their large user base, there arises a need for an efficient backend which we are aiming to replicate in a small extent.
